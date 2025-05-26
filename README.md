@@ -1,1 +1,3 @@
-# .github
+# GitHub profile of the KraftSQL organization
+
+Mainly in [profile/README.md](./profile/README.md)...
