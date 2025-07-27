@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+    width="100" height="100"
+    fill="FFFFFF">
+    <path d="M0,20 l0,-20 l20,0 l-10,10 l10,10 Z" fill="black" aria-description="K"/>
+    <path d="M24,20 l0,-10 l3,0 l0,2 q1,-2,5,-2 l0,3 q-4,-1,-5,2 l0,5 Z" fill="black" aria-description="r"/>
+    <path d="M35,14 c0,-5,10,-5,10,0 l0,6 l-3,0 l0,-1 c0,0,0,0,-7,-2 c0,0,0,0,7,-2 l0,-1 Z" fill="black" aria-description="a"/>
+</svg>
