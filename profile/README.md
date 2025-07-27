@@ -1,5 +1,7 @@
 # **Kraft**SQL
 
+![logo](../logo/logo.line.png)
+
 "Craft your SQL transformations with the power of Kotlin™."
 
 ## Why **Kraft**SQL?
