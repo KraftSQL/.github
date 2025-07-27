@@ -1,6 +1,6 @@
 # **Kraft**SQL
 
-"Craft your SQL transformations with the power of Kotlin."
+"Craft your SQL transformations with the power of Kotlin™."
 
 ## Why **Kraft**SQL?
 
