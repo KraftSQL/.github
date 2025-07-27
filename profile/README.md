@@ -7,7 +7,7 @@
 Modern data warehouse systems usually include a powerful SQL engine.
 Using this for your data transformations saves you extra infrastructure, but doing it all with plain SQL can become a mess.
 
-**Kraft**SQL let's you craft high quality SQL code with the power of Kotlin - for high quality data.
+**Kraft**SQL lets you craft high quality SQL code with the power of Kotlin - for high quality data.
 
 ### Features
 
