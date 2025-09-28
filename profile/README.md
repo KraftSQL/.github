@@ -37,3 +37,7 @@ Once this PoC and PoV is successful, **Kraft**SQL will focus on covering more an
 In this phase versions will change to 0.x.y, where an increase in x indicates new features while an increase in y indicates fixes.
 
 With at least the most common SQL features implemented, **Kraft**SQL is planned to be released as 1.0.0 and switch to semantic versioning.
+
+## Learn more
+
+Have a look at the [Documentation](https://github.com/KraftSQL/documentation/wiki) to learn more about **Kraft**SQL and how to use it.
